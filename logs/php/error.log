@@ -1,0 +1,13 @@
+[08-Feb-2024 01:26:21 UTC] PHP Warning:  Undefined array key "method" in C:\Users\User\Local Sites\mf-bolsas-e-acessorios\app\public\wp-content\plugins\woocommerce-mercadopago\src\Gateways\BasicGateway.php on line 289
+[08-Feb-2024 01:26:21 UTC] PHP Warning:  Undefined array key "method" in C:\Users\User\Local Sites\mf-bolsas-e-acessorios\app\public\wp-content\plugins\woocommerce-mercadopago\src\Gateways\BasicGateway.php on line 289
+[08-Feb-2024 01:26:21 UTC] PHP Warning:  Undefined array key "method" in C:\Users\User\Local Sites\mf-bolsas-e-acessorios\app\public\wp-content\plugins\woocommerce-mercadopago\src\Gateways\BasicGateway.php on line 289
+[08-Feb-2024 01:45:22 UTC] PHP Warning:  Undefined array key "method" in C:\Users\User\Local Sites\mf-bolsas-e-acessorios\app\public\wp-content\plugins\woocommerce-mercadopago\src\Gateways\BasicGateway.php on line 289
+[08-Feb-2024 01:45:22 UTC] PHP Warning:  Undefined array key "method" in C:\Users\User\Local Sites\mf-bolsas-e-acessorios\app\public\wp-content\plugins\woocommerce-mercadopago\src\Gateways\BasicGateway.php on line 289
+[08-Feb-2024 01:45:22 UTC] PHP Warning:  Undefined array key "method" in C:\Users\User\Local Sites\mf-bolsas-e-acessorios\app\public\wp-content\plugins\woocommerce-mercadopago\src\Gateways\BasicGateway.php on line 289
+[08-Feb-2024 02:13:32 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\User\Local Sites\mf-bolsas-e-acessorios\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[08-Feb-2024 23:39:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: User is not connected
+[10-Feb-2024 00:38:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: User is not connected
+[10-Feb-2024 00:38:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: User is not connected
+[10-Feb-2024 00:38:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: User is not connected
+[10-Feb-2024 00:43:44 UTC] Erro de evento de reagendamento do cron para o gancho: action_scheduler_run_queue, código de erro: could_not_set, mensagem de erro: Não foi possível salvar a lista de evento do cron, dados: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[10-Feb-2024 00:43:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: User is not connected
